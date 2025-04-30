@@ -43,7 +43,7 @@ Desarrollador de software altamente motivado con experiencia práctica en Python
 ## **Proyectos Destacados**  
 
 ### **Página web de contacto**  
-<a href="https://github.com/EmanuelBeltranDelgado/Sakura-Blossom-Dev-web"><img src="https://github.com/EmanuelBeltranDelgado/EmanuelBeltranDelgado/raw/main/Pagina_web_repo_logo_2.png" width="300px" style="display: block; margin: 0 auto 5px auto;"/></a>  
+<a href="https://github.com/EmanuelBeltranDelgado/Sakura-Blossom-Dev-web"><img src="https://github.com/EmanuelBeltranDelgado/EmanuelBeltranDelgado/raw/main/Pagina_web_repo_logo.png" width="300px" style="display: block; margin: 0 auto 5px auto;"/></a>  
 [![GitHub Stars](https://img.shields.io/github/stars/EmanuelBeltranDelgado/Sakura-Blossom-Dev-web?label=Repo&style=social)](https://github.com/EmanuelBeltranDelgado/Sakura-Blossom-Dev-web)
 #
 
