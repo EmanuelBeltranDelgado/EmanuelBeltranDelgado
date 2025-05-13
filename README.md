@@ -36,7 +36,7 @@ Desarrollador de software altamente motivado con experiencia práctica en Python
 
 [![GitHub](https://img.shields.io/badge/GitHub-Sakura_Blossom-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu-usuario)  
 
-[![Website](https://img.shields.io/badge/Web-sakura--blossom--dev--web.vercel.app-ffb7c5?style=for-the-badge&logo=vercel&logoColor=white)](https://sakura-blossom-dev-web.vercel.app)
+[![Website](https://img.shields.io/badge/Web-sakura_blossom_dev-ffb7c5?style=for-the-badge&logo=vercel&logoColor=white)](https://sakurablossomdev-aqua-orca.reflex.run)
 
 ---
 
