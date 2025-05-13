@@ -36,7 +36,7 @@ Desarrollador de software altamente motivado con experiencia práctica en Python
 
 [![GitHub](https://img.shields.io/badge/GitHub-Sakura_Blossom_Dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EmanuelBeltranDelgado)  
 
-[![Website](https://img.shields.io/badge/Web-Sakura_Blossom_Dev-ffb7c5?style=for-the-badge&logo=vercel&logoColor=white)](https://sakurablossomdev-aqua-orca.reflex.run)
+[![Website](https://img.shields.io/badge/Web-Sakura_Blossom_Dev-ffb7c5?style=for-the-badge&logo=vercel&logoColor=white)](https://sakurablossomdev-aqua-orca.reflex.run/)
 
 ---
 
