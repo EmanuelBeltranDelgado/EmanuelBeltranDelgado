@@ -32,11 +32,11 @@ Desarrollador de software altamente motivado con experiencia práctica en Python
 
 ## **Encuéntrame en:**  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sakura_Blossom_Dev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuel-beltran-delgado-779b2a31b/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sakura_Blossom_Dev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuel-beltran-delgado-779b2a31b)  
 
 [![GitHub](https://img.shields.io/badge/GitHub-Sakura_Blossom_Dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EmanuelBeltranDelgado)  
 
-[![Website](https://img.shields.io/badge/Web-Sakura_Blossom_Dev-ffb7c5?style=for-the-badge&logo=vercel&logoColor=white)](https://sakurablossomdev-aqua-orca.reflex.run/)
+[![Website](https://img.shields.io/badge/Web-Sakura_Blossom_Dev-ffb7c5?style=for-the-badge&logo=vercel&logoColor=white)](https://sakurablossomdev-aqua-orca.reflex.run)
 
 ---
 
