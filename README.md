@@ -1,4 +1,4 @@
-# Sakbyte <img align="center" src="https://github.com/EmanuelBeltranDelgado/EmanuelBeltranDelgado/raw/main/sakura_blossom_dev_logo.png" width="60" height="50" />
+# <img align="center" src="https://github.com/EmanuelBeltranDelgado/EmanuelBeltranDelgado/blob/main/sakbyte_logo.png" width="500" height="150" />
 
 ### **Python Developer & DevOps Engineer**  
 
