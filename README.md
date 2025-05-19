@@ -31,19 +31,18 @@ Desarrollador de software altamente motivado con experiencia práctica en Python
 ---
 
 ## **Encuéntrame en:**  
+[![Website](https://img.shields.io/badge/Web-Sakbyte-ffb7c5?style=for-the-badge&logo=vercel&logoColor=white)](https://sakurablossomdev-aqua-orca.reflex.run)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sakura_Blossom_Dev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuel-beltran-delgado-779b2a31b)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sakbyte-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuel-beltran-delgado-779b2a31b)  
 
-[![GitHub](https://img.shields.io/badge/GitHub-Sakura_Blossom_Dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EmanuelBeltranDelgado)  
-
-[![Website](https://img.shields.io/badge/Web-Sakura_Blossom_Dev-ffb7c5?style=for-the-badge&logo=vercel&logoColor=white)](https://sakurablossomdev-aqua-orca.reflex.run)
+[![GitHub](https://img.shields.io/badge/GitHub-Sakbyte-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EmanuelBeltranDelgado)  
 
 ---
 
 ## **Proyectos Destacados**  
 
 ### **Página web de contacto**  
-<a href="https://github.com/EmanuelBeltranDelgado/Sakura-Blossom-Dev-web"><img src="https://github.com/EmanuelBeltranDelgado/EmanuelBeltranDelgado/raw/main/Pagina_web_repo_logo.png" width="300px" style="display: block; margin: 0 auto 5px auto;"/></a>  
+<a href="https://github.com/EmanuelBeltranDelgado/Sakura-Blossom-Dev-web"><img src="https://github.com/EmanuelBeltranDelgado/EmanuelBeltranDelgado/blob/main/Pagina_web_repo_logo.png" width="300px" style="display: block; margin: 0 auto 5px auto;"/></a>  
 [![GitHub Stars](https://img.shields.io/github/stars/EmanuelBeltranDelgado/Sakura-Blossom-Dev-web?label=Repo&style=social)](https://github.com/EmanuelBeltranDelgado/Sakura-Blossom-Dev-web)
 #
 
